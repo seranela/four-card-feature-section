@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-ai6bHIoSWp](https://www.frontendmentor.io/solutions/four-card-feature-section-ai6bHIoSWp)
+- Live Site URL: [https://seranela.github.io/four-card-feature-section/](https://seranela.github.io/four-card-feature-section/)
 
 ## My process
 
